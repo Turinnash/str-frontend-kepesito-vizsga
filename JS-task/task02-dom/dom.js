@@ -1,4 +1,7 @@
-function changeOuterLinks() {}
+function changeOuterLinks() {
+    document.querySelectorAll('.nav').forEach( a =>
+        a.
+    )};
 
 
 export { changeOuterLinks };
